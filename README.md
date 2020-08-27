@@ -82,10 +82,13 @@ The source code for the current progress can be accessed here. https://github.co
   Weekly blogs were added for FURY's Website.
 
   *Pull Requests:*
-  * **First & Second Evaluation:** 
+  * **First & Second Evaluation:**
+  
   
   https://github.com/fury-gl/fury/pull/250
+  
   https://github.com/fury-gl/fury/pull/267
+  
   * **Third Evaluation:** 
   
   https://github.com/fury-gl/fury/pull/296
